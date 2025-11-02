@@ -1,24 +1,35 @@
-# Ahmed Helal 👋
+# Hi there, I'm Ahmed Helal 👋
 
-مرحبا! أنا Ahmed — Full-Stack Developer مهتم بـ Laravel, Vue, وDevOps.  
-أحب بناء واجهات سلسة وخلفيات قوية، وأشارك شروحات ومشاريع مفتوحة المصدر.
+💻 Full-Stack Developer | Laravel & Vue.js Enthusiast | Problem Solver
 
-## 🔭 المشاريع الحالية
-- **ProjectA** — نظام إدارة موارد مبني بـ Laravel + Vue.  
-- **ProjectB** — مكتبة صغيرة لتحليل بيانات الاتصالات.
-
-## 🛠️ المهارات
-Laravel · PHP · Vue.js · JavaScript · MySQL · Docker · Git
-
-## 📫 تواصل
-- الموقع: https://your-site.com  
-- Email: youremail@example.com  
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Twitter: https://twitter.com/yourhandle
-
-## ⚡ إحصائيات
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedHelal909&show_icons=true&theme=default)
+I’m passionate about creating powerful web apps with clean code and elegant UI.  
+I love combining backend logic with smooth frontend experiences.
 
 ---
 
-شكراً لزيارتك — تصفّح المشاريع المثبتة 👇
+### 🚀 Projects I'm Working On
+- **ERP System** – Full-featured ERP with accounting, HR, and inventory modules.  
+- **Booking App** – Restaurant and salon booking platform with Laravel + Vue.  
+- **Affiliate Plugin** – Custom plugin for Botble CMS to manage commissions.
+
+---
+
+### 🧠 Skills & Tools
+`Laravel` · `Vue.js` · `PHP` · `JavaScript` · `MySQL` · `REST APIs` · `Docker` · `Git`
+
+---
+
+### 📊 GitHub Stats
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedHelal909&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHelal909&layout=compact&theme=transparent)
+
+---
+
+### 📫 Let's Connect
+- 🌐 [Website](https://your-website.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+- 📧 **youremail@example.com**
+
+---
+
+⭐️ *Thanks for visiting! Feel free to explore my projects below.*
