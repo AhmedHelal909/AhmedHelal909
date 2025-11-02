@@ -26,9 +26,9 @@ I love combining backend logic with smooth frontend experiences.
 ---
 
 ### 📫 Let's Connect
-- 🌐 [Website](https://your-website.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 📧 **youremail@example.com**
+- 🌐 [Website](https://ahmedhelal909.github.io/My-Portfolio)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-helal-66718a1ba)  
+- 📧 **am9514994@gmail.com**
 
 ---
 
