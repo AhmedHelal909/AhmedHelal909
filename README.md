@@ -18,6 +18,7 @@ I love combining backend logic with smooth frontend experiences.
 `Laravel` · `Vue.js` · `PHP` · `JavaScript` · `MySQL` · `REST APIs` · `Docker` · `Git`
 
 ---
+![Ahmed Helal Banner](1740641969292.jpeg)
 
 ### 📊 GitHub Stats
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedHelal909&show_icons=true&theme=transparent)
