@@ -1,5 +1,6 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35%C2%A2er=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Sameh+Hammad!;Front-end+Developer+;Using+ReactJs+%7C%7C+NextJs;](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there,+I%27m+Ahmed+Helal+%F0%9F%91%8B;Backend+Developer;Laravel+%7C+Vue.js)" />
+    <img src="[https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35%C2%A2er=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Sameh+Hammad!;Front-end+Developer+;Using+ReactJs+%7C%7C+NextJs;](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there,+I%27m+Ahmed+Helal+%F0%9F%91%8B;Backend+Developer;Laravel+%7C+Vue.js)](https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there,+I'm+Ahmed+Helal+👋;Backend+Developer;Laravel+%7C+Vue.js
+)" />
 </h1>
 
 💻 Full-Stack Developer | Laravel & Vue.js Enthusiast | Problem Solver
