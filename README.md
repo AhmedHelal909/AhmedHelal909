@@ -6,6 +6,7 @@ I’m passionate about creating powerful web apps with clean code and elegant UI
 I love combining backend logic with smooth frontend experiences.
 
 ---
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pjreddie.pjreddie" />
 
 ### 🚀 Projects I'm Working On
 - **ERP System** – Full-featured ERP with accounting, HR, and inventory modules.  
