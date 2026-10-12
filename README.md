@@ -1,24 +1,43 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there,+I'm+Ahmed+Helal+👋;Backend+Developer;Laravel+%7C+Vue.js" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+there,+I'm+Ahmed+Helal+👋;Full+Stack+Developer;Laravel+%7C+Next.js+%7C+React+%7C+Vue.js" />
 </h1>
 
-💻 Full-Stack Developer | Laravel & Vue.js Enthusiast | Problem Solver
+💻 Full Stack Developer | Laravel, Next.js, React & Vue.js | 7+ years of experience
 
-I’m passionate about creating powerful web apps with clean code and elegant UI.  
-I love combining backend logic with smooth frontend experiences.
+I build web applications end to end: PHP and Laravel on the backend, and React, Next.js, TypeScript and Vue.js on the frontend.
+I enjoy clean code, fast APIs and smooth user experiences.
+
+📍 Cairo, Egypt
 
 ---
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pjreddie.pjreddie" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AhmedHelal909.AhmedHelal909" />
 
-### 🚀 Projects I'm Working On
-- **ERP System** – Full-featured ERP with accounting, HR, and inventory modules.  
-- **Booking App** – Restaurant and salon booking platform with Laravel + Vue.  
+### 🏢 Currently
+
+**Full Stack Developer at Ventureware** (since Aug 2026), working on the Dulani platform:
+
+- [Dulani Business Center portal](https://dulani.sa/)
+- [Event Consultation](https://eventconsultation.dulani.sa/)
+- [Business Noura](https://businessnoura.dulani.sa/)
+- [Franchise Program](https://franchise.dulani.sa/)
+
+PHP backend APIs, TypeScript web apps, a shared UI library, PHP and Next.js upgrades, and Docker with GitHub Actions CI/CD.
+
+---
+
+### 🚀 Side Projects
+- **ERP System** – Full-featured ERP with accounting, HR, and inventory modules.
+- **Booking App** – Restaurant and salon booking platform with Laravel + Vue.
 - **Affiliate Plugin** – Custom plugin for Botble CMS to manage commissions.
 
 ---
 
 ### 🧠 Skills & Tools
-`Laravel` · `Vue.js` · `PHP` · `JavaScript` · `MySQL` · `REST APIs` · `Docker` · `Git`
+**Backend:** `PHP` · `Laravel` · `REST APIs` · `JWT` · `Queue Workers` · `PHPUnit`
+
+**Frontend:** `React.js` · `Next.js` · `TypeScript` · `Vue.js` · `JavaScript` · `HTML5` · `CSS3` · `Sass`
+
+**Data & DevOps:** `MySQL` · `Redis` · `Docker` · `Git` · `GitHub Actions` · `CI/CD`
 
 ---
 ![Ahmed Helal Banner](1740641969292.jpeg)
@@ -30,10 +49,10 @@ I love combining backend logic with smooth frontend experiences.
 ---
 
 ### 📫 Let's Connect
-- 🌐 [Website](https://ahmedhelal909.github.io/My-Portfolio)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-helal-66718a1ba)  
+- 🌐 [Website](https://ahmedhelal909.github.io/My-Portfolio)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-helal-66718a1ba)
 - 📧 **am9514994@gmail.com**
 
 ---
 
-⭐️ *Thanks for visiting! Feel free to explore my projects below.*
+⭐️ *Thanks for visiting! Feel free to explore my projects.*
