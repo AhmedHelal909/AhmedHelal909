@@ -12,19 +12,6 @@ I enjoy clean code, fast APIs and smooth user experiences.
 ---
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AhmedHelal909.AhmedHelal909" />
 
-### 🏢 Currently
-
-**Full Stack Developer at Ventureware** (since Aug 2026), working on the Dulani platform:
-
-- [Dulani Business Center portal](https://dulani.sa/)
-- [Event Consultation](https://eventconsultation.dulani.sa/)
-- [Business Noura](https://businessnoura.dulani.sa/)
-- [Franchise Program](https://franchise.dulani.sa/)
-
-PHP backend APIs, TypeScript web apps, a shared UI library, PHP and Next.js upgrades, and Docker with GitHub Actions CI/CD.
-
----
-
 ### 🚀 Side Projects
 - **ERP System** – Full-featured ERP with accounting, HR, and inventory modules.
 - **Booking App** – Restaurant and salon booking platform with Laravel + Vue.
